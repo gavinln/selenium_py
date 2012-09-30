@@ -1,0 +1,6 @@
+nose
+# web server for ipython notebook
+tornado
+ipython
+# selenium simple test
+sst
